@@ -1,0 +1,31 @@
+# Global ignores
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Entity Framework
+Migrations/
+
+# Logs
+*.log
+
+# Node / Frontend
+node_modules/
+dist/
+.env
+
+# IDE
+.vscode/
+.idea/
+
